@@ -1,6 +1,8 @@
 # wn-data-grc.tab  
 AGWN - Ancient Greek WordNet tab compatible with Open Multilingual WordNet  
 
+This data has been mapped to Open Multilingual WordNet tab format by Tommaso Petrolito (tommasouni «at» gmail «dot» com).
+
 README  
 Ancient Greek WordNet is a lexico-semantic resource mapped on Princeton WordNet 3.0.  
 The synsets provided by the current version 0.5 here are filtered through Minozzi’s Latin WordNet synset IDs.  
